@@ -8,12 +8,12 @@ const LatestBlogs = () => {
       <div className="flex justify-evenly  py-20 flex-wrap">
         <span className="relative flex flex-col justify-between w-full m-8  md:w-1/5  ">
           <h2 className="absolute text-xl text-[#014949] mb-4">
-            WATCH: Toni Gonzaga's Releases Her Studio Version of "Roar!"
+            WATCH: Toni Gonzaga&apos;s Releases Her Studio Version of &apos;Roar!&apos;
           </h2>
           <div className="mt-28">
             <Image width="250" height="250" src="https://iili.io/ZN8uup.png" />
             <p className="text-sm text-[#014949] mt-2">
-              Unfortunately, no "SABAY-SABAY!!!"
+              Unfortunately, no &apos;SABAY-SABAY!!!&apos;
             </p>
             <p className="text-sm text-[#014949] mt-2">May 25, 2022 09:19 PM</p>
           </div>
@@ -35,12 +35,12 @@ const LatestBlogs = () => {
 
         <span className="relative flex flex-col justify-between w-full m-8  md:w-1/5  ">
           <h2 className="absolute text-xl text-[#014949] mb-4">
-            WATCH: Toni Gonzaga's Releases Her Studio Version of "Roar!"
+            WATCH: Toni Gonzaga&apos;s Releases Her Studio Version of &apos;Roar!&apos;
           </h2>
           <div className="mt-28">
             <Image width="250" height="250" src="https://iili.io/ZN8uup.png" />
             <p className="text-sm text-[#014949] mt-2">
-              Unfortunately, no "SABAY-SABAY!!!"
+              Unfortunately, no &apos;SABAY-SABAY!!!&apos;
             </p>
             <p className="text-sm text-[#014949] mt-2">May 25, 2022 09:19 PM</p>
           </div>
@@ -48,12 +48,12 @@ const LatestBlogs = () => {
 
         <span className="relative flex flex-col justify-between w-full m-8  md:w-1/5  ">
           <h2 className="absolute text-xl text-[#014949] mb-4">
-            WATCH: Toni Gonzaga's Releases Her Studio Version of "Roar!"
+            WATCH: Toni Gonzaga&apos;s Releases Her Studio Version of &apos;Roar!&apos;
           </h2>
           <div className="mt-28">
             <Image width="250" height="250" src="https://iili.io/ZN8uup.png" />
             <p className="text-sm text-[#014949] mt-2">
-              Unfortunately, no "SABAY-SABAY!!!"
+              Unfortunately, no &apos;SABAY-SABAY!!!&apos;
             </p>
             <p className="text-sm text-[#014949] mt-2">May 25, 2022 09:19 PM</p>
           </div>

@@ -7,7 +7,7 @@ const FreeCourses = () => {
   return (
     <div className='py-20'>
         <h2 className='text-[#046664] text-5xl font-bold'>100% Free</h2>
-        <p className='p-2 text-lg text-[#046664]'>Free online courses from the world's top universities and companies.</p>
+        <p className='p-2 text-lg text-[#046664]'>Free online courses from the world&apos;s top universities and companies.</p>
 
         <div className=" flex flex-wrap justify-around items-center md:px-28 py-10 ">
       {arr?.map((course, index) => (
