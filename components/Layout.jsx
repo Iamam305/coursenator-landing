@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
     <div className="bg-[#E8FCF9] w-full max-w-screen overflow-x-hidden">
       <div className="max-w-screen-xl  mx-auto "> 
         <Navbar />
-        <main className="md:px-0 px-4">{children}</main>
+        <div className="md:px-0 px-4">{children}</div>
         <Footer />
       </div>
     </div>

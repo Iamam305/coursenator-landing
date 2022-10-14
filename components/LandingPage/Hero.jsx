@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const Hero = () => {
@@ -16,10 +17,11 @@ const Hero = () => {
             <h1 className="text-5xl font-semibold text-[#014949]">
               Your Personal Course <br /> Navigator
             </h1>
-
-            <button className="mt-16 btn border-none p-2 rounded-md text-white text-lg font-semibold bg-gradient-to-r from-[#1CBADA] to-[#02DBB6] w-2/3">
-              Search 10,428 courses
+            <Link href={'/SearchCourse'} > 
+            <button  className="mt-16 btn border-none p-2 rounded-md text-white text-lg font-semibold bg-gradient-to-r from-[#1CBADA] to-[#02DBB6] w-2/3">
+             Search 10,428 courses
             </button>
+            </Link>
 
             <ul className="flex  flex-wrap mt-10">
               <li className="flex justify-between items-center text-lg font-bold  p-2 m-2 break-before-avoid">

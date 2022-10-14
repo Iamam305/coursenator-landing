@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-const Providers = () => {
+const CourseProviders = () => {
   return (
     <>
       <div className="hero w-full py-8 pb-20">
@@ -21,4 +21,4 @@ const Providers = () => {
   );
 }; 
 
-export default Providers;
+export default CourseProviders;
