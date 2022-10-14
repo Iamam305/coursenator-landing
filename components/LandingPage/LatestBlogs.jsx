@@ -41,7 +41,7 @@ const LatestBlogs = () => {
             <Image width="250" height="250" src="https://iili.io/ZN8uup.png" />
             <p className="text-sm text-[#014949] mt-2">
               Unfortunately, no &apos;SABAY-SABAY!!!&apos;
-            </p>
+            </p>   
             <p className="text-sm text-[#014949] mt-2">May 25, 2022 09:19 PM</p>
           </div>
         </span>
