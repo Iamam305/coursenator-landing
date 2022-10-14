@@ -14,7 +14,7 @@ export default function Home() {
 
 
   return (
-    <CoursesContext.Provider value={CoursesData}>
+    <>
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -32,6 +32,6 @@ export default function Home() {
           <LatestBlogs />
         </div>
       </Layout>
-    </CoursesContext.Provider>
+    </>
   );
 }
